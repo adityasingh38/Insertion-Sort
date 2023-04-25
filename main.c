@@ -6,7 +6,7 @@ void InsertionSort(int a[], int n);
 
 int main()
 {
-    int arr[5] = {27, 9, 16, 42, 87};
+    int arr[5] = {17, 6, 1, 412, 76};
     int i;
 
     printf("Available array:\n");
